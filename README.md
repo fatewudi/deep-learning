@@ -3,6 +3,6 @@
 # 所需环境
 ● Anaconda3（建议使用）\
 ● python3.6/3.7/3.8/3.9 \
-● vscode/pycharm 
-● pytorch >=1.10 (pip package)
-● torchvision >=0.11.1 (pip package)
+● vscode/pycharm \
+● pytorch >=1.10 (pip package)\
+● torchvision >=0.11.1 (pip package)\
